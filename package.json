@@ -1,0 +1,13 @@
+{
+  "name": "qr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qr.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
